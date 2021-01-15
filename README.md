@@ -30,4 +30,4 @@ PLAYLIST={PLAYLIST_URI}
 
 `!remove [track_URI]` Removes all instances of the track specified from the playlist.
 
-`!get_playlist` returns the playlist.
+`!playlist` returns the playlist URL.
